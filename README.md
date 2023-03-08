@@ -1,1 +1,3 @@
-# A Minimal Landing Page with HTML & CSS and JAVASCRIPT.
+# MINIMALIST LANDING PAGE WITH HTML & CSS & JAVASCRIPT.
+
+##Brought to you by Ores & Company & Classic Values, a part of the Laudate Corpus Family.
