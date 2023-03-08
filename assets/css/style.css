@@ -1,5 +1,11 @@
 /*=============== GOOGLE FONTS ===============*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700;900&display=swap");
+@import "@coreui/coreui/scss/functions";
+@import "@coreui/coreui/scss/variables";
+@import "@coreui/coreui/scss/maps";
+@import "@coreui/coreui/scss/mixins";
+@import "@coreui/coreui/scss/utilities";
+@import "@coreui/coreui/scss/utilities/api";
 
 /*=============== VARIABLES CSS ===============*/
 :root {
